@@ -9,4 +9,7 @@ module.exports = {
 	],
 	theme: {},
 	plugins: [daisyui],
+	daisyui: {
+		themes: ["cupcake"],
+	},
 };

@@ -1,0 +1,94 @@
+{
+	"reviews": [
+		{
+			"professor": "Dr. Smith",
+			"subject": "Introduction to Computer Science",
+			"ratings": 4,
+			"review": "Dr. Smith is an excellent professor. He is very knowledgeable and explains the material in a clear and concise manner."
+		},
+		{
+			"professor": "Dr. Johnson",
+			"subject": "Calculus",
+			"ratings": 5,
+			"review": "Dr. Johnson is a fantastic professor. He is very patient and helps you understand the material with his great explanations."
+		},
+		{
+			"professor": "Dr. Davis",
+			"subject": "Biology",
+			"ratings": 3,
+			"review": "Dr. Davis is a good professor, but sometimes the lectures can be a bit dry."
+		},
+		{
+			"professor": "Dr. Lee",
+			"subject": "Statistics",
+			"ratings": 4,
+			"review": "Dr. Lee is a great professor. He is very organized and provides helpful resources for the course."
+		},
+		{
+			"professor": "Dr. Brown",
+			"subject": "English Literature",
+			"ratings": 5,
+			"review": "Dr. Brown is an amazing professor. He is very passionate about the subject and makes the class really engaging."
+		},
+		{
+			"professor": "Dr. Martin",
+			"subject": "Physics",
+			"ratings": 4,
+			"review": "Dr. Martin is a good professor. He is very knowledgeable and helps you understand the material, but sometimes the lectures can be a bit long."
+		},
+		{
+			"professor": "Dr. Thompson",
+			"subject": "Psychology",
+			"ratings": 4,
+			"review": "Dr. Thompson is a great professor. She is very approachable and helps you understand the material with her great explanations."
+		},
+		{
+			"professor": "Dr. Hall",
+			"subject": "Chemistry",
+			"ratings": 3,
+			"review": "Dr. Hall is a good professor, but sometimes the lectures can be a bit confusing."
+		},
+		{
+			"professor": "Dr. Garcia",
+			"subject": "Economics",
+			"ratings": 5,
+			"review": "Dr. Garcia is an excellent professor. He is very knowledgeable and explains the material in a clear and concise manner."
+		},
+		{
+			"professor": "Dr. Patel",
+			"subject": "Computer Science",
+			"ratings": 4,
+			"review": "Dr. Patel is a great professor. He is very organized and provides helpful resources for the course."
+		},
+		{
+			"professor": "Dr. Rodriguez",
+			"subject": "Mathematics",
+			"ratings": 4,
+			"review": "Dr. Rodriguez is a good professor. He is very patient and helps you understand the material with his great explanations."
+		},
+		{
+			"professor": "Dr. Khan",
+			"subject": "Business",
+			"ratings": 4,
+			"review": "Dr. Khan is a great professor. He is very knowledgeable and explains the material in a clear and concise manner."
+		},
+		{
+			"professor": "Dr. Lee",
+			"subject": "Engineering",
+			"ratings": 5,
+			"review": "Dr. Lee is an excellent professor. He is very passionate about the subject and makes the class really engaging."
+		},
+		{
+			"professor": "Dr. Davis",
+			"subject": "Environmental Science",
+			"ratings": 4,
+			"review": "Dr. Davis is a good professor. He is very knowledgeable and helps you understand the material with his great explanations."
+		},
+		{
+			"professor": "Dr. Brown",
+			"subject": "Sociology",
+			"ratings": 5,
+			"review": "Dr. Brown is an amazing professor. He is very passionate about the subject and makes the class really engaging."
+		}
+	]
+}
