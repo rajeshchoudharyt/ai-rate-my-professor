@@ -1,4 +1,4 @@
-### A app to rate and give feedback to the professor amd to query back the results from AI using RAG.
+### A app to rate and give feedback to the professor and to query back the results from conversational AI using RAG.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
